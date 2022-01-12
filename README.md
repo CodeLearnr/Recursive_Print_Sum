@@ -1,0 +1,2 @@
+# Recursive_Print_Sum
+Write a recursive function that prints a pyramid of numbers found by adding adjacent numbers in a List. Each line of the pyramid should contain a set of numbers that are the sum of the 2 numbers above it in the pyramid. For example, if you were given a list containing the numbers {1, 3, 5, 2, 4}, the second line of the pyramid would be {4, 8, 7, 6} (i.e., 1+3=4, 3+5=8, 5+2=7, and 2+4=6). Use recursion to repeat this process using the new data as the input. The full output for the program given these numbers would be:
