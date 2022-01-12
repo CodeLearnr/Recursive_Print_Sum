@@ -1,0 +1,21 @@
+D:\All files\Bow Valley\SODV9104\HW\LA28_RecursivePrintSums\bin\Debug\LA28_RecursivePrintSums.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA28_RecursivePrintSums\bin\Debug\LA28_RecursivePrintSums.exe
+D:\All files\Bow Valley\SODV9104\HW\LA28_RecursivePrintSums\bin\Debug\LA28_RecursivePrintSums.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.exe
+D:\All files\Bow Valley\SODV9104\HW\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.pdb
+C:\Users\yabin\Downloads\LA28_RecursivePrintSums\LA28_RecursivePrintSums\bin\Debug\LA28_RecursivePrintSums.exe.config
+C:\Users\yabin\Downloads\LA28_RecursivePrintSums\LA28_RecursivePrintSums\bin\Debug\LA28_RecursivePrintSums.exe
+C:\Users\yabin\Downloads\LA28_RecursivePrintSums\LA28_RecursivePrintSums\bin\Debug\LA28_RecursivePrintSums.pdb
+C:\Users\yabin\Downloads\LA28_RecursivePrintSums\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.csproj.AssemblyReference.cache
+C:\Users\yabin\Downloads\LA28_RecursivePrintSums\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.csproj.CoreCompileInputs.cache
+C:\Users\yabin\Downloads\LA28_RecursivePrintSums\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.exe
+C:\Users\yabin\Downloads\LA28_RecursivePrintSums\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.pdb
+D:\All files\Bow Valley\SODV9104\LA28_RecursivePrintSums\bin\Debug\LA28_RecursivePrintSums.exe.config
+D:\All files\Bow Valley\SODV9104\LA28_RecursivePrintSums\bin\Debug\LA28_RecursivePrintSums.exe
+D:\All files\Bow Valley\SODV9104\LA28_RecursivePrintSums\bin\Debug\LA28_RecursivePrintSums.pdb
+D:\All files\Bow Valley\SODV9104\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.exe
+D:\All files\Bow Valley\SODV9104\LA28_RecursivePrintSums\obj\Debug\LA28_RecursivePrintSums.pdb
